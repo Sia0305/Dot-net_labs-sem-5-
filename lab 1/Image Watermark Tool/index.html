@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>✨ Watermark Studio AI Pro</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="bg-blur blur-1"></div>
+<div class="bg-blur blur-2"></div>
+
+<div class="container">
+
+<!-- HEADER -->
+<header class="header glass">
+
+<div class="logo">
+✨ <span>Watermark Studio AI</span>
+</div>
+
+<nav>
+<button class="theme-btn" id="themeBtn">
+🌙 Dark Mode
+</button>
+</nav>
+
+</header>
+
+<!-- HERO -->
+<section class="hero glass">
+
+<h1>
+Create Stunning Watermarks
+<span>in Seconds</span>
+</h1>
+
+<p>
+Upload images, customize text, add effects,
+and export professional-quality watermarked images.
+</p>
+
+<div class="hero-buttons">
+<button class="hero-btn">
+🚀 Get Started
+</button>
+
+<button class="hero-btn secondary">
+🎨 Live Preview
+</button>
+</div>
+
+</section>
+
+<!-- MAIN AREA -->
+<div class="main">
+
+<!-- SIDEBAR -->
+<aside class="sidebar glass">
+
+<h2>⚙️ Design Controls</h2>
+
+<!-- TEXT -->
+<div class="card">
+
+<h3>📝 Text Settings</h3>
+
+<div class="control">
+<label>Watermark Text</label>
+<input
+type="text"
+id="watermarkText"
+value="© Watermark Studio AI">
+</div>
+
+<div class="control">
+<label>Font Family</label>
+
+<select id="fontFamily">
+<option>Poppins</option>
+<option>Arial</option>
+<option>Georgia</option>
+<option>Verdana</option>
+<option>Courier New</option>
+</select>
+
+</div>
+
+<div class="control">
+<label>Font Size</label>
+
+<input
+type="range"
+id="fontSize"
+min="10"
+max="120"
+value="50">
+
+<div id="fontSizeVal">
+50px
+</div>
+
+</div>
+
+</div>
+
+<!-- STYLE -->
+<div class="card">
+
+<h3>🎨 Style Settings</h3>
+
+<div class="control">
+<label>Text Color</label>
+<input
+type="color"
+id="fontColor"
+value="#ffffff">
+</div>
+
+<div class="control">
+<label>Opacity</label>
+
+<input
+type="range"
+id="opacity"
+min="0"
+max="1"
+step="0.01"
+value="0.50">
+
+<div id="opacityVal">
+0.50
+</div>
+
+</div>
+
+<div class="control">
+<label>Rotation</label>
+
+<input
+type="range"
+id="rotation"
+min="0"
+max="360"
+value="0">
+
+<div id="rotationVal">
+0°
+</div>
+
+</div>
+
+<div class="control">
+<label>Shadow Blur</label>
+
+<input
+type="range"
+id="shadow"
+min="0"
+max="50"
+value="10">
+
+</div>
+
+</div>
+
+<!-- POSITION -->
+<div class="card">
+
+<h3>📍 Position</h3>
+
+<div class="control">
+
+<select id="position">
+
+<option value="center">
+Center
+</option>
+
+<option value="top-left">
+Top Left
+</option>
+
+<option value="top-right">
+Top Right
+</option>
+
+<option value="bottom-left">
+Bottom Left
+</option>
+
+<option value="bottom-right">
+Bottom Right
+</option>
+
+</select>
+
+</div>
+
+</div>
+
+<!-- EXPORT -->
+<div class="card">
+
+<h3>📥 Export</h3>
+
+<button class="btn" id="downloadPNG">
+⬇ Download PNG
+</button>
+
+<button class="btn secondary-btn" id="downloadJPG">
+📷 Download JPG
+</button>
+
+</div>
+
+</aside>
+
+<!-- WORKSPACE -->
+<section class="workspace glass">
+
+<div class="workspace-header">
+
+<h2>
+🖼 Canvas Workspace
+</h2>
+
+<p>
+Upload image and start designing
+</p>
+
+</div>
+
+<label class="upload" id="dropArea">
+
+<input
+type="file"
+id="imageInput"
+accept="image/*">
+
+<div class="upload-content">
+
+<div class="upload-icon">
+📸
+</div>
+
+<h3>
+Drag & Drop Image
+</h3>
+
+<p>
+or click to browse files
+</p>
+
+</div>
+
+</label>
+
+<div class="canvas-container">
+<canvas id="canvas"></canvas>
+</div>
+
+</section>
+
+</div>
+
+<!-- FOOTER -->
+<footer class="footer glass">
+
+<p>
+✨ Watermark Studio AI Pro —
+Designed with Creativity & Glassmorphism
+</p>
+
+</footer>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

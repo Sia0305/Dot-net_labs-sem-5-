@@ -1,0 +1,8 @@
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\bin\Debug\Basic_concept_of.Net.exe.config
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\bin\Debug\Basic_concept_of.Net.exe
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\bin\Debug\Basic_concept_of.Net.pdb
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\obj\Debug\Basic concept of .Net.csproj.AssemblyReference.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\obj\Debug\Basic concept of .Net.csproj.CoreCompileInputs.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\obj\Debug\Basic_concept_of.Net.exe
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\obj\Debug\Basic_concept_of.Net.pdb
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Basic concept of .Net\obj\Debug\Basic_concept_of.Net.exe.config
