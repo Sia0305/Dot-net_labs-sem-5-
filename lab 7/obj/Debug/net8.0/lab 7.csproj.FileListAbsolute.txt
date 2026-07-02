@@ -1,0 +1,39 @@
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\appsettings.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\lab 7.staticwebassets.endpoints.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\lab 7.exe
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\lab 7.deps.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\lab 7.runtimeconfig.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\lab 7.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\lab 7.pdb
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\Scalar.AspNetCore.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.csproj.AssemblyReference.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.AssemblyInfoInputs.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.AssemblyInfo.cs
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.csproj.CoreCompileInputs.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.sourcelink.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\scopedcss\bundle\lab 7.styles.css
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.csproj.Up2Date
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\refint\lab 7.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.pdb
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\lab 7.genruntimeconfig.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\obj\Debug\net8.0\ref\lab 7.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\lab 7\bin\Debug\net8.0\xunit.core.dll
