@@ -1,0 +1,7 @@
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\bin\Debug\Lab_LINQ.exe.config
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\bin\Debug\Lab_LINQ.exe
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\bin\Debug\Lab_LINQ.pdb
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\obj\Debug\Lab_LINQ.csproj.AssemblyReference.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\obj\Debug\Lab_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\obj\Debug\Lab_LINQ.exe
+C:\Users\Siya\OneDrive\Desktop\semester 5\.Net\Lab_LINQ\obj\Debug\Lab_LINQ.pdb
